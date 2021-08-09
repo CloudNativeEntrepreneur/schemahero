@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.3.2
 	github.com/aws/aws-sdk-go-v2/service/ssm v1.8.0
 	github.com/go-openapi/spec v0.20.3 // indirect
-	github.com/go-sql-driver/mysql v1.5.0
+	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gocql/gocql v0.0.0-20200815110948-5378c8f664e9
 	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
